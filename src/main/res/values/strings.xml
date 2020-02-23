@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">刷快手</string>
+    <string name="simulate_key_description" translatable="false">需要开启服务，才能模滑动操作，放心开启，无其其他非法操作。</string>
+    <string name="hellowrold">必须要开启辅助服务才能使用！设置-智能辅助-无障碍-快手助手1.0-开启服务</string>
+</resources>
